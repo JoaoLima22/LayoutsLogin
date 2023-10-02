@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LayoutsLogin</string>
+    <string name="title_activity_login_cl">loginCL</string>
+</resources>
